@@ -15,19 +15,29 @@
 
 ## Description
 
+This application is the back end of an E-Commerce site that utilizes the latest technologies. This application will allow your business to remain competitive with other E-Commerce companies.
+
 ## Installation
 
+MySQL, Node.js, Express.js and Insomnia must be installed in order to fully utilize this application. In order to utilize this application, the user must install the following dependencies: Dotenv, Express, MySQL2, and Sequelize. Once all code is downloaded, the user can install these dependencies by entering the command "npm install" in their CLI. The user will also need to source the schema.sql file by entering the "db" folder, logging into mySQL, and then entering "source schema.sql".
+
 ## Usage
+
+After following installation procedures, the user can enter the command "npm start" in their CLI. Once server is running, the user can open Insomnia application and perform POST, PUT, and DELETE operations.
 
 ## Credits
 
 Starter Code obtained from: https://github.com/coding-boot-camp/fantastic-umbrella
+
+Project Done in Collaboration with coding students Kalyn Sifuentes, Joshua Hale, and Angela Cortes.
 
 ## Screenshots
 
 ## Video
 
 ## Link to Website
+
+N/A
 
 ## License
 
