@@ -6,8 +6,21 @@ class Category extends Model {}
 
 Category.init(
   {
-    // define columns
+    // This Defines ID Column, Automatically Incremented
+    id: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+      primaryKey: true,
+      autoIncrement: true,
+    },
+
+    // This Defines category_name Column in Database
+    category_name: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    }
   },
+  
   {
     sequelize,
     timestamps: false,
