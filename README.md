@@ -29,7 +29,11 @@ After following installation procedures, the user can enter the command "npm sta
 
 Starter Code obtained from: https://github.com/coding-boot-camp/fantastic-umbrella
 
-Project Done in Collaboration with coding students Kalyn Sifuentes, Joshua Hale, and Angela Cortes.
+Project Done in collaboration with coding students Kalyn Sifuentes, Joshua Hale, and Angela Cortes.
+
+Tutor Assistance provided by Wesley Clements.
+
+YouTube Video Accessed for function guidance: https://www.youtube.com/watch?v=hGVJLTGqPgk&t=379s by Thomas Calle
 
 ## Screenshots
 
