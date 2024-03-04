@@ -37,6 +37,22 @@ YouTube Video Accessed for function guidance: https://www.youtube.com/watch?v=hG
 
 ## Screenshots
 
+Insomnia Get Request: 
+
+![Alt Text](./images/get-request-insomnia-screen.png)
+
+Insomnia Post Request:
+
+![Alt Text](./images/post-request-insomnia-screen.png)
+
+Insomnia Put Request:
+
+![Alt Text](./images/put-request-insomnia-screen.png)
+
+Insomnia Delete Request:
+
+![Alt Text](./images/delete-request-insomnia-screen.png)
+
 ## Video
 
 Link to Main Functionality: https://drive.google.com/file/d/1_2y2_JVH49WyiZuIiNoWnvt4ICoqAW67/view
